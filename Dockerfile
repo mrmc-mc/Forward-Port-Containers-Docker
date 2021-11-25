@@ -3,7 +3,7 @@ FROM alpine
 
 WORKDIR /app
 
-RUN apt update && apt install socat
+RUN apk update && apk add socat
 
 EXPOSE 80
 EXPOSE 22222

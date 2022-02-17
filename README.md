@@ -1,5 +1,5 @@
 # Forward-Port-Containers-Docker
-Forward Port between Docker Containers
+Forward Port between Docker Containers (in the same network)
 
 ---
 
